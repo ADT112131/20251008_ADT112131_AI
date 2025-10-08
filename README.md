@@ -1,2 +1,5 @@
-# 20251008_ADT112131_AI
-人工智慧應用作業
+# AI 人工智慧課程
+
+NTCU AI course
+
+Professor Chih-Hung Wu in NTCU DCT
